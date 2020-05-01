@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#116466</color>
+    <color name="colorPrimaryDark">#2C3531</color>
+    <color name="colorAccent">#D9B08C</color>
+    // #2C3531  #116466  #D9B08C  #FFCB9A  #D1E8E2
+
+    <color name="primary_text_color">#212121</color>
+    <color name="secondary_text_color">#9AA2AF</color>
+    <color name="white_color">#FFFFFF</color>
+    <color name="button_background_color">#FFCB9A </color>
+
+    // For the recyclerView
+    <color name="circular_image_border_color">#D1E8E2</color>
+    <color name="item_happy_place_description_text_color">#606060</color>
+
+    // For the HappyPlaceDetailActivity
+    <color name="detail_screen_description_text_color">#757575</color>
+    <color name="detail_screen_date_text_color">#54123b</color>
+</resources>
